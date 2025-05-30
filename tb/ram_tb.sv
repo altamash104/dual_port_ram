@@ -149,3 +149,4 @@ function void ram_tb::connect_phase(uvm_phase phase);
       				ragt_top[i].agnth.monh.monitor_port.connect(sb[i].fifo_rdh.analysis_export);
 		end
 endfunction
+
